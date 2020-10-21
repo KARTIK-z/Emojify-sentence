@@ -1,7 +1,7 @@
 # Welcome to Emojify tutorial
 
-This project needs following modules installed 
-    Emoji   <pip install Emoji>
+This project needs following modules installed <br>
+    Emoji   \<pip install Emoji\>
     Tkinter <pip install tkinter>
 
 Conversion of plane text into emojifief sentense by replacing sum words of sentense into emojis
