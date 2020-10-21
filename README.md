@@ -16,4 +16,5 @@ Conversion of plane text into emojifief sentense by replacing sum words of sente
         -> Outside of a 🐕 , 📚 are men's best friend. 
 
 Following project is a graphical presentation, and tested on windows 10 device
-![pics/main.jpeg](pics/main.jpeg)
+
+![pics/main.jpeg](pics/main.jpeg)![pics/output.jpeg](pics/output.jpeg)
