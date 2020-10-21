@@ -17,4 +17,4 @@ Conversion of plane text into emojifief sentense by replacing sum words of sente
 
 Following project is a graphical presentation, and tested on windows 10 device
 
-        ![pics/main.jpeg](pics/main.jpeg)![pics/output.jpeg](pics/output.jpeg)
+![pics/main.jpeg](pics/main.jpeg)![pics/output.jpeg](pics/output.jpeg)
