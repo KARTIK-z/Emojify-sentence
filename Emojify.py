@@ -1,5 +1,20 @@
-from tkinter import Tk, IntVar, Entry, Label, Radiobutton, W, Button, END
-import emoji
+import sys
+import subprocess
+
+
+try:
+    from tkinter import Tk, IntVar, Entry, Label, Radiobutton, W, Button, END
+except ModuleNotFoundError:
+    subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'tk'])
+    from tkinter import Tk, IntVar, Entry, Label, Radiobutton, W, Button, END
+
+
+try:
+    import emoji
+except ModuleNotFoundError:
+    subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'emoji'])
+    import emoji
+
 
 class class_storage:
     def __init__(self):
