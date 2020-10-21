@@ -2,8 +2,8 @@
 
 This project needs following modules installed
 
-    Emoji   \<pip install Emoji\>
-    Tkinter \<pip install tkinter\>
+    Emoji   <pip install Emoji>
+    Tkinter <pip install tkinter>
 
 Conversion of plane text into emojifief sentense by replacing sum words of sentense into emojis
 
