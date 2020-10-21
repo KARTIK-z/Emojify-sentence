@@ -136,4 +136,9 @@ btn3 = Button(master=Window, width=8,text="Reset",command=reset)
 btn0.pack()
 
 Window.mainloop()
-#boy girl were going to school
+
+# Test sentence
+# boy and girl were going to school
+#
+# expected output
+# 👦 👧 were going to 🏫
