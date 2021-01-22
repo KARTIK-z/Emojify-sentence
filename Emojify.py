@@ -1,4 +1,4 @@
-from tkinter import Tk, IntVar, Entry, Label, Radiobutton, W, Button, END
+from tkinter import Tk ,IntVar ,Entry ,Label ,Radiobutton ,W ,Button ,END
 import emoji
 
 class class_storage:
