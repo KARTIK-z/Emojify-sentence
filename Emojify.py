@@ -96,7 +96,6 @@ def continue_assignment():
 
 storage = class_storage()
 Window = Tk()
-
 Window.title("Emojify")
 
 sentense_input = Entry(width=50)
